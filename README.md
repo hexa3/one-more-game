@@ -6,7 +6,9 @@ A short browser horror game. A hospital floor that isn't on the elevator buttons
 
 ## Play
 
-Open `index.html` in a browser. No build step and no dependencies (fonts load from Google Fonts; all audio is synthesized with Web Audio).
+**[Play it in your browser](https://hexa3.github.io/one-more-game/)**
+
+Or open `index.html` in a browser. No build step and no dependencies (fonts load from Google Fonts; all audio is synthesized with Web Audio).
 
 ## Controls
 
