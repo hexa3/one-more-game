@@ -2,6 +2,8 @@
 
 A short browser horror game. A hospital floor that isn't on the elevator buttons. A doll that wants one more game. You hide by closing your eyes, and so does the screen. The credits roll halfway through.
 
+![The player stepping out of the elevator onto Floor 4, flashlight aimed down the dark ward](screenshot.png)
+
 ## Play
 
 Open `index.html` in a browser. No build step and no dependencies (fonts load from Google Fonts; all audio is synthesized with Web Audio).
